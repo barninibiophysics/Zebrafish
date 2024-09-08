@@ -1,0 +1,1 @@
+The repository consists of the three video data of the three fish used in the study for quantification of the ocular movement frequency of the fish in presence of the visual stimulus for generating optokinetic response.
